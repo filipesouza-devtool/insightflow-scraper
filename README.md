@@ -1,3 +1,4 @@
+
 # InsightFlow Analytics
 
 Projeto de estudo em Python dividido em duas partes: um **motor de extração** que coleta dados da web e uma **vitrine** em Streamlit que transforma o CSV em um painel de análise.
@@ -49,3 +50,7 @@ O painel espera o arquivo `dados_raspados.csv` na mesma pasta (ou use o upload n
 ## Aviso
 
 Projeto com fins educacionais, usando um site criado para prática de scraping.
+
+
+https://github.com/user-attachments/assets/8b2ec424-37fa-492e-abed-246f7200d7a0
+
